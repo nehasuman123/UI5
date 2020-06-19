@@ -3,6 +3,6 @@
 		<Text text="Sample column"/>
 		<customData>
 		<core:CustomData key="p13nData" value='\{"columnKey": "Test", "columnIndex" : "101"}'/>
-		</customData>
+	</customData>
 	</Column>
 </core:FragmentDefinition>
