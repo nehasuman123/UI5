@@ -16,5 +16,5 @@ execution:
        url: http://blazedemo.com/reserve.php
        body:
          fromPort: Paris
-         toPort: Buenos Aires         
+         toPort: Buenos Aires
  
